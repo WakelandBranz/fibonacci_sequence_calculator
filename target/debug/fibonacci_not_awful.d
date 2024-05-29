@@ -1,0 +1,1 @@
+C:\Users\Wake\Documents\Coding_Projects\Repositories\rust\learning\fibonacci_not_awful\fibonacci_not_awful\target\debug\fibonacci_not_awful.exe: C:\Users\Wake\Documents\Coding_Projects\Repositories\rust\learning\fibonacci_not_awful\fibonacci_not_awful\src\cli.rs C:\Users\Wake\Documents\Coding_Projects\Repositories\rust\learning\fibonacci_not_awful\fibonacci_not_awful\src\main.rs
